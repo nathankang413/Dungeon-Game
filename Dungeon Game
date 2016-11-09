@@ -1,1 +1,10 @@
+class dungeon(object):
+    """docstring for ."""
+    def __init__(self, exits, weapons, tools, enemies):
+        self.exits = exits
+        self.weapons = weapons
+        self.tools = tools
+        self.enemies = enemies
 
+        
+            
